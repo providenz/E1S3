@@ -450,6 +450,9 @@ table.default tbody {
     color: #333131 !important;
 }
 
+.button-red{
+    background-color: #e2321a;
+}
 .button.alt:hover {
     background: #333131;
     color: #FFF !important;
