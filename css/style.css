@@ -880,6 +880,11 @@ h3.talk__title {
     margin-bottom: 24px;
     padding: 0;
 }
+h3.talk__title small {
+    font-size: 24px;
+    color: #777;
+    font-style: italic;
+}
 
 .speaker {
     width: 70%;
