@@ -720,8 +720,6 @@ table.default tbody {
     padding-top: 1em;
 }
 
-#sidebar {
-}
 
 #sidebar section,
 #sidebar2 section {
@@ -900,4 +898,8 @@ h3.talk__title small {
     margin-bottom: 25px;
     color: #555;
 
+}
+
+.center{
+    text-align: center;
 }
