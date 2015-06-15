@@ -450,9 +450,10 @@ table.default tbody {
     color: #333131 !important;
 }
 
-.button-red{
+.button-red {
     background-color: #e2321a;
 }
+
 .button.alt:hover {
     background: #333131;
     color: #FFF !important;
@@ -700,7 +701,6 @@ table.default tbody {
     background: #fff;
 }
 
-
 .homepage .content-white-bg {
     text-align: center;
 }
@@ -719,7 +719,6 @@ table.default tbody {
 .content-white-bg .actions {
     padding-top: 1em;
 }
-
 
 #sidebar section,
 #sidebar2 section {
@@ -859,14 +858,17 @@ table.default tbody {
 #sponsor-sgar, #sponsor-cci {
     margin-right: 15px;
 }
-.summary__title{
+
+.summary__title {
     font-size: 48px;
     margin-bottom: 36px;
 }
-.summary__item{
+
+.summary__item {
     text-align: left;
 }
-.summary__author{
+
+.summary__author {
     font-style: italic;
 }
 
@@ -876,6 +878,7 @@ h3.talk__title {
     margin-bottom: 24px;
     padding: 0;
 }
+
 h3.talk__title small {
     font-size: 24px;
     color: #777;
@@ -887,10 +890,12 @@ h3.talk__title small {
     vertical-align: top;
     text-align: left;
 }
-.speaker__name{
+
+.speaker__name {
     font-weight: bolder;
     font-style: italic;
 }
+
 .talk__description {
     width: 70%;
     vertical-align: top;
@@ -900,6 +905,51 @@ h3.talk__title small {
 
 }
 
-.center{
+.center {
     text-align: center;
+}
+
+.partners-list a {
+    vertical-align: middle;
+    margin-right: 30px;
+}
+
+#partner-commander {
+    padding-bottom: 30px;
+}
+
+.team {
+    text-align: left;
+}
+
+h3.team-name {
+    font-size: 32px;
+    margin-bottom: 32px;
+    padding: 0;
+}
+
+.team-pic {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 32px;
+}
+
+.team-bio {
+    display: inline-block;
+    max-width: 60%;
+    vertical-align: top;
+
+}
+
+.team-bio p {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+h3.volunteers-title {
+    font-size: 32px;
+}
+
+.volunteers-text {
+    font-size: 24px;
 }
